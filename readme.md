@@ -1,12 +1,12 @@
-#Rigester Simulator
+# Rigester Simulator
 
-##Description 
+**Description** 
 A simple program to simulate general purpose register
 
-##Requierments
+**Requierments**
 
 C compiler
 
-##How to run?
+**How to run?**
 1.gcc ax.c -o prog
 2./prog
